@@ -1,18 +1,6 @@
 nameOverride: ""
 fullnameOverride: ""
 
-# language: R
-language: python
-
-# jupyter:
-# 
-#   image:
-#     repository: syoh/dask-notebook
-#     tag: latest
-#   serviceType: ClusterIP
-#   servicePort: 80
-#   targetPort: 8888
-
 scheduler:
 
   image:
